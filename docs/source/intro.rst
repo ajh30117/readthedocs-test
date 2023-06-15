@@ -9,6 +9,9 @@ OpenPTC is a community source Positive Train Control (PTC) software. OpenPTC is 
 
 Why OPenPTC?
 ----------------
+
+Community Source 
+^^^^^^^^^^^^^^^^^^^
 OpenPTC allows railroad operation and engineering staff to see the code and feel security, freedom, and comfort in knowing what their system is running. We plan to maintain first-generation capability to allow migrating and interoperating with both generations of systems.
 
 We plan to introduce more pieces of the PTC system to be available in this "open" model.
