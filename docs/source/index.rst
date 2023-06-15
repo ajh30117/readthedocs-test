@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Welcome to OpenPTC's Documentation!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
@@ -17,6 +17,8 @@ Contents
 --------
 
 .. toctree::
+ :maxdepth: 2
+
 
    intro
    api
