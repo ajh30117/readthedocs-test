@@ -1,19 +1,27 @@
-Usage
+About OpenPTC
 =====
 
 .. _installation:
 
-Installation
+What is OPenPTC?
 ------------
+OpenPTC is a community source Positive Train Control (PTC) software. OpenPTC is leading the next generation of PTC software and giving the control back to the customer by providing a community source solution for your I-ETMS key management system.
+
+Why OPenPTC?
+----------------
+OpenPTC allows railroad operation and engineering staff to see the code and feel security, freedom, and comfort in knowing what their system is running. We plan to maintain first-generation capability to allow migrating and interoperating with both generations of systems.
+
+We plan to introduce more pieces of the PTC system to be available in this "open" model.
+
+
+Installation
+----------------
 
 To use Lumache, first install it using pip:
 
 .. code-block:: console
 
    (.venv) $ pip install lumache
-
-Creating recipes
-----------------
 
 To retrieve a list of random ingredients,
 you can use the ``lumache.get_random_ingredients()`` function:
