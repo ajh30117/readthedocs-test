@@ -15,8 +15,20 @@ how to :ref:`installation` for details on how to get started.
 
 Contents
 --------
+
+
+Introduction
+***********************
+
 .. toctree::
    :maxdepth: 4
 
    intro
+
+Getting Started
+**********************
+
+.. toctree::
+   :maxdepth: 4
+
    api
