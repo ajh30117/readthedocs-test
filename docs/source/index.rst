@@ -7,7 +7,7 @@ It pulls data from the `Open Food Facts database <https://world.openfoodfacts.or
 and offers a *simple* and *intuitive* API.
 
 Check out the :doc:`intro` section for more information, including
-how to :ref:`installation` for details on how to get started.
+how to :ref:`installation` for details on getting started.
 
 .. note::
 
@@ -17,7 +17,7 @@ Contents
 --------
 
 
-Introduction
+About OpenPTC
 ***********************
 
 .. toctree::
