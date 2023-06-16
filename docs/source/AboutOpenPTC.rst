@@ -20,9 +20,7 @@ We're leading the market in next-generation KMS solutions, but plan to maintain 
 
 We plan to introduce more pieces of the PTC system to be available in our "open" model.
 
-
 Installation
-----------------
 
 To use Lumache, first install it using pip:
 
