@@ -17,14 +17,13 @@ Contents
 --------
 
 
-About OpenPTC
+Introduction
 ***********************
 
 .. toctree::
    :maxdepth: 4
-
-   WhatOpenPTC
-   WhyOpenPTC
+  
+   AboutOpenPTC
 
 Locker KMS (Key Management System)
 **********************
