@@ -1,7 +1,5 @@
 About OpenPTC
-=====
-
-.. _installation:
+==============
 
 What is OpenPTC?
 ------------
