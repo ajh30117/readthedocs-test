@@ -23,12 +23,14 @@ About OpenPTC
 .. toctree::
    :maxdepth: 4
 
-   intro
+   WhatOpenPTC
+   WhyOpenPTC
 
-Getting Started
+Locker KMS (Key Management System)
 **********************
 
 .. toctree::
    :maxdepth: 4
 
-   api
+   GettingStarted
+   HelpAndTroubleshooting
