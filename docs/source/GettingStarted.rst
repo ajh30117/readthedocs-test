@@ -7,6 +7,7 @@ OpenPTC is a community source Positive Train Control (PTC) software. OpenPTC is 
 
 Configure
 ------------
+Follow these steps to configure Locker:
 
 Deploy
 ----------
