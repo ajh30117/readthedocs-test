@@ -3,7 +3,7 @@ About OpenPTC
 
 What is OpenPTC?
 ------------
-OpenPTC is a community source Positive Train Control (PTC) software. OpenPTC is leading the next generation of PTC software and giving the control back to the customer by providing a community source solution for your I-ETMS key management system.
+OpenPTC is a community source Positive Train Control (:term:`PTC`) software. OpenPTC is leading the next generation of PTC software and giving the control back to the customer by providing a community source solution for your :term:`I-ETMS` key management system.
 
 Why OpenPTC?
 ----------------
@@ -43,3 +43,43 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+.. glossary::
+
+      AMQP
+         Advanced Message Queuing Protocol
+
+      I-ETMS
+         Interoperable Electronic Train Management System
+
+      ITCM
+         Interoperable Train Control Network
+
+      KMS
+         Key Management System
+
+      OCI
+         Open Container Initiative
+
+      OPK
+         Operational Private Key
+
+      PSA1
+         PTC Security Architecture, version 1
+
+      PSA2
+         PTC Security Architecture, version 2
+
+      PTC
+         Positive Train Control
+
+      RSA
+         Rivest-Shamir-Adleman
+
+      TLS
+         Transport Layer Security
+
+      UTC
+         Coordinated Universal Time
+
+      YAML
+         YAML Ain't Markup Language
