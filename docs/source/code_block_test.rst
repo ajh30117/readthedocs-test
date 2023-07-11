@@ -1,3 +1,6 @@
+Adding Sphinx Extensions
+*************************
+
 1. Install the extension
 ::
 
