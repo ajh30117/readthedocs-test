@@ -34,3 +34,5 @@ Locker KMS (Key Management System)
    GettingStarted
    HelpAndTroubleshooting
    CodeBlockTest
+
+.. include:: ../readthedocs-test/docs/source/Substitutions.rst
