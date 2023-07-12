@@ -1,1 +1,1 @@
-
+.. |Company| replace:: OpenPTC™
