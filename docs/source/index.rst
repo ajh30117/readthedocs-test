@@ -33,4 +33,4 @@ Locker KMS (Key Management System)
 
    GettingStarted
    HelpAndTroubleshooting
-   code_block_test
+   CodeBlockTest
